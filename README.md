@@ -10,7 +10,8 @@ Shield Insurance Company is a leading insurance provider, dedicated to offering 
 
 📎 Links
 --
-[📊Live Dashboard](https://app.powerbi.com/groups/me/reports/9fbb4d87-a4e4-4e1f-8a89-b7223b97b281/12f3d4d03bc49b7ed178?experience=power-bi)
+[📊 Live Dashboard](https://app.powerbi.com/groups/me/reports/9fbb4d87-a4e4-4e1f-8a89-b7223b97b281/12f3d4d03bc49b7ed178?experience=power-bi)
+[💼 Linkedin Post]
 
 ### 📂 Dataset
 
@@ -27,7 +28,7 @@ Shield Insurance Company is a leading insurance provider, dedicated to offering 
 ✍ Trends in customer and revenue growth
 
 🌟 Lessons learned from the Dashboard
----
+--
 ✨ Premium: The amount of money paid by the policyholder to the insurance company for coverage.
 
 ✨ Policy: The contract between the insured and the insurer that outlines the terms and conditions of the insurance coverage.
@@ -36,13 +37,13 @@ Shield Insurance Company is a leading insurance provider, dedicated to offering 
 
 ✨ Claim: A formal request made by the insured to the insurance company to seek compensation for covered losses or damages.🌟
 ### 🎯 Objective
----
+--
 The objective of this pilot project is to conduct a thorough examination of customer growth and revenue patterns at Shield Insurance Company. The project's primary emphasis lies in extracting significant observations regarding customer behavior, revenue generation, geographical distribution, and age group-based statistics. By analyzing these metrics, the project offers valuable insights to comprehend the company's performance and facilitate informed decision-making based on data
 
 
 
 ###  📋 Data Summary
----
+--
 #### 1. **Data Model**
 
 <img width="945" height="455" alt="data model" src="https://github.com/user-attachments/assets/c8d78539-dfa3-44a0-aa4b-10599afed0be" />
@@ -62,9 +63,10 @@ The objective of this pilot project is to conduct a thorough examination of cust
 #### 5. **🔢 AgeGroup DashBoard**
 
 <img width="865" height="483" alt="agegroup" src="https://github.com/user-attachments/assets/f3fb3555-b340-4730-b7af-daf3f3d5b739" />
----
+--
 
 ###  💡 Key Insights:
+--
 
 * Total Customers: The insurance company has a customer base of 26,841 people.
 
