@@ -7,7 +7,6 @@ Shield Insurance Company is a leading insurance provider, dedicated to offering 
 * **Power BI**
 * **Canva**
 * **Excel**
---
 
 📎 Links
 --
