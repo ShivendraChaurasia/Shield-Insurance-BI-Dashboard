@@ -41,6 +41,8 @@ The objective of this pilot project is to conduct a thorough examination of cust
 ---
 **Data Model**
 
+<img width="945" height="455" alt="data model" src="https://github.com/user-attachments/assets/c8d78539-dfa3-44a0-aa4b-10599afed0be" />
+
 #### 1. **Finance Dashboard**
 
 * **Net Sales** increased by **207.4%**, led by strong demand in **keyboards and laptops**
