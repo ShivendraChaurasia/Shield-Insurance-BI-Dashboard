@@ -39,36 +39,26 @@ The objective of this pilot project is to conduct a thorough examination of cust
 
 ###  📋 Data Summary
 ---
-1. **Data Model**
+#### 1. **Data Model**
 
 <img width="945" height="455" alt="data model" src="https://github.com/user-attachments/assets/c8d78539-dfa3-44a0-aa4b-10599afed0be" />
 
-#### 2. **Sales Dashboard**
+#### 2. **🏠 Home Page**
 
-* **AtliQ Exclusive** outperformed with a **gross margin of 43.7%**
-* Most products maintained a gross margin in the **35-37%** range
-* **APAC region** showed strong customer clustering in sales performance
+<img width="868" height="482" alt="HomePage" src="https://github.com/user-attachments/assets/a5a99ad6-db32-4a0c-ab48-ad420fa29598" />
 
-#### 3. **Marketing Dashboard**
+#### 3. **📊 Overview DashBoard**
 
-* **Total Sales** reached **\$823.8M**, with consistent **gross margins (\~36.5%)**
-* Despite high revenue, **net profit is -6.6%**, especially in:
+<img width="858" height="481" alt="OVERVIEW" src="https://github.com/user-attachments/assets/497a4254-e606-4f5a-b630-be9de5c3a626" />
 
-  * **India (-24.7%)**
-  * **USA (-16.9%)**
-* **EU (1.4%)** and **LATAM (6.2%)** reported positive net profits
+#### 4. **📈 Sales Mode Dashboard**
 
-#### 4. **Supply Chain Dashboard**
+<img width="863" height="482" alt="salesmode" src="https://github.com/user-attachments/assets/78b05df5-8ddf-4415-8e1b-623fabb876ef" />
 
-* **Forecast Accuracy** improved from **72.99% to 80.21%**
-* **High-risk customers** like **Boulanger** and **Expert** showed large forecast deviations
-* **Accessories segment** had the highest net forecast error (**-\$2.13M**), significantly impacting overall accuracy
+#### 5. **🔢 AgeGroup DashBoard**
 
-#### 5. **Executive Summary Dashboard**
+<img width="865" height="483" alt="agegroup" src="https://github.com/user-attachments/assets/f3fb3555-b340-4730-b7af-daf3f3d5b739" />
 
-* **India** leads with **\$210.67M in net sales** and a **25.57% revenue contribution**
-* **Gross Margin** slightly down to **36.49%** (-1.65%)
-* **Net Profit** dropped to **-6.63%**, a decline of **-676.38%**
 
 ---
 
