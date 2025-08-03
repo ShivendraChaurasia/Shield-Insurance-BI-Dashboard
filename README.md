@@ -22,7 +22,7 @@ Shield Insurance Company is a leading insurance provider, dedicated to offering 
 
 ✍ Trends in customer and revenue growth
 
-✍ Age group analysis
+🌟 Lessons learned from the Dashboard
 ---
 
 ###  Project Workflow:
