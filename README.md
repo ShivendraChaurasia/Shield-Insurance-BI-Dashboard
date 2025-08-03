@@ -5,7 +5,9 @@ Shield Insurance Company is a leading insurance provider, dedicated to offering 
 ###  Tools & Technologies Used:
 
 * **Power BI**, **Canva**, **Excel**
-* Dataset provided by **Codebasics**
+* 📂 Dataset
+---
+  The dataset provided by **Codebasics** is from Insurance companies, in which we have to track the 5 major key metrics
 
 🎯 Key Focus Area:
 
